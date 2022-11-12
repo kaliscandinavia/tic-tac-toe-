@@ -1,2 +1,12 @@
 # tic-tac-toe-
-this is a js challenge.Don't tuch the html or css file.Human VS pc + mouseover/out to create hoover effect when human 'hover' over a box.Winning array too.Good luck.I must finish pcmove.Git clone,drag folder to browser/and/or Open index.html.Enjoy🌎
+A JavaScript task.Don't edit html or css file,ONLY app.js ! 
+Human VS pc + mouseover/mouseout to create hoover effect when human crusing over box'es.
+Winning array too.I must finish pcmove.
+
+       (")(")
+        (°√°)
+         (")(")
+
+You can try,or see what I 'v done by;
+git clone,drag folder to browser,
+and/or open the index.html.Enjoy🌎
