@@ -7,6 +7,4 @@ Winning array too.I must finish pcmove.
         (°√°)
          (")(")
 
-You can try,or see what I 'v done by;
-git clone,drag folder to browser,
-and/or open the index.html.Enjoy🌎
+You can try git clone to Desktop and drag folder to browser to test .Enjoy🌎
